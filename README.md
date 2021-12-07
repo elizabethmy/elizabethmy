@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="500px">
 <a href="https://twitter.com/banhmuy">
   <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
