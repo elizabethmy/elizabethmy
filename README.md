@@ -21,9 +21,9 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 
 - 🌱 Learning: **C++ course at https://vietnamson.com/**
        
-- 🔬 Researching: ****
+- 🔬 Researching
        
-- 💚 Contribution: ****
+- 💚 Contribution
 
 <h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banhmuy&show_icons=true&locale=en&layout=compact&theme=gotham" alt="banhmuy" /></p>
