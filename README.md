@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="500px">
+### <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px">
 <a href="https://twitter.com/banhmuy">
   <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -10,8 +10,6 @@
 <a href="https://auth.geeksforgeeks.org/user/diemmylethi">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=""My Le's Geek" height="22" width="22" />
   </a>
-</br>
-<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=banhmuy.banhmuy)
 <br />
