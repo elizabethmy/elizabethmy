@@ -17,11 +17,15 @@
 <h2 align="left">🍀 Overview </h2>
 
 Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.
-- 👩‍💻 I’m currently working on **Gameloft for developer game**
+- 👩‍💻 Working: **Software developer at Gameloft**
 
-- 🌱 I’m currently learning **C++ course at https://vietnamson.com/**
+- 🌱 Learning: **C++ course at https://vietnamson.com/**
+       
+- 🔬 Researching: ****
+       
+- 💚 Contribution: ****
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banhmuy&show_icons=true&locale=en&layout=compact&theme=gotham" alt="banhmuy" /></p>
 <p align="left"> 
 <a href="https://en.cppreference.com/w/" target="_blank"> 
