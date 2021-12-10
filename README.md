@@ -21,7 +21,7 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 
 - 🌱 Learning: **C++ course at https://vietnamson.com/**
        
-- 🔬 Researching
+- 🔬 Researching: Machine Learning, Data Science
        
 - 💚 Contribution
 
