@@ -42,8 +42,9 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 <h2 align="left">📈 Status</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banhmuy" alt="banhmuy" /></a> </p>
-<p>&nbsp;<img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banhmuy&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727)](https://git.io/streak-stats)" alt="banhmuy" />
-</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banhmuy&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727)](https://git.io/streak-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=banhmuy&show_icons=true&locale=en&theme=gotham" alt="banhmuy" />
 </p>
 
