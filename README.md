@@ -1,4 +1,5 @@
 ### <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px">
+
 <a href="https://twitter.com/banhmuy">
   <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,16 +15,21 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=banhmuy.banhmuy)
 <br />
 
-<h2 align="left">🍀 Overview </h2>
+<h2 align="left"> 🍀 Overview </h2>
 
 Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.
+
 - 👩‍💻 Working: **Software developer at Gameloft**
 
-- 🌱 Learning: **C++ course at https://vietnamson.com/**
-       
-- 🔬 Researching: Machine Learning, Data Science
-       
 - 💚 Contribution
+
+🎯 Mission:
+| **Topic**                                                     | **Detail**                                                                        |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 🌱 Developer                                                  | <ul><li>**C++ course at https://vietnamson.com/** </li></ul>                      |
+| 📚 [Reading](https://www.goodreads.com/user/show/71295387-my) | <ul><li>**Clean Code**</li><li>**The pragmatic programmer**</li></ul>             |
+| 🔬 Researching                                                | <ul><li>**Machine Learning** </li><li>**Data Science** </li></ul>                 |
+| 🌎 Skills                                                     | <ul><li>**[Duolingo](https://www.duolingo.com/profile/SamsoniteMyLe)** </li></ul> |
 
 <h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banhmuy&show_icons=true&locale=en&layout=compact&theme=gotham" alt="banhmuy" /></p>
@@ -47,9 +53,3 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=banhmuy&show_icons=true&locale=en&theme=gotham" alt="banhmuy" />
 </p>
-
-
-
-
-
-
