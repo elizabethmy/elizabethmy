@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=banhmuy.banhmuy)
 <br />
 
-<h2 align="left"> 🍀 Overview </h2>
+<h2 align="left">🍀 Overview </h2>
 
 Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.
 
