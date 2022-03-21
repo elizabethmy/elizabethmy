@@ -27,7 +27,7 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 🎯 Mission:
 | **Topic**                                                     | **Detail**                                                                        |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| 🌱 Developer                                                  | <ul><li>**C++ course at https://vietnamson.com/** </li><li>**C++ course at https://www.udemy.com/course/the-modern-cpp-20-masterclass//** </li></ul>                      |
+| 🌱 Developer                                                  | <ul><li>**C++ course at https://vietnamson.com/** </li><li>**AI All in one at https://aivietnam.edu.vn/** </li></ul>                      |
 | 📚 [Reading](https://www.goodreads.com/user/show/71295387-my) | <ul><li>**Clean Code**</li><li>**The pragmatic programmer**</li></ul>             |
 | 🔬 Researching                                                | <ul><li>**Machine Learning** </li><li>**Data Science** </li></ul>                 |
 | 🌎 Skills                                                     | <ul><li>**[Duolingo](https://www.duolingo.com/profile/SamsoniteMyLe)** </li></ul> |
