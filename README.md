@@ -28,7 +28,7 @@ Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software devel
 | **Topic**                                                     | **Detail**                                                                        |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | 🌱 Developer                                                  | <ul><li>**C++ course at https://vietnamson.com/** </li><li>**AI All in one at https://aivietnam.edu.vn/** </li></ul>                      |
-| 📚 [Reading](https://www.goodreads.com/user/show/71295387-my) | <ul><li>**[Machine Learning cơ bản(Vũ Hữu Tiệp)](https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf)**</li><li>**[The pragmatic programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)**</li></ul>             |
+| 📚 [Reading](https://www.goodreads.com/user/show/71295387-my) | <ul><li>**[Machine Learning cơ bản(Vũ Hữu Tiệp)](https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf)**</li></ul>             |
 | 🔬 Researching                                                | <ul><li>**Machine Learning** </li><li>**Data Science** </li></ul>                 |
 | 🌎 Skills                                                     |  |
 
