@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px">
+<!-- <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px"> -->
 
 <a href="https://twitter.com/banhmuy">
   <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -20,7 +20,8 @@
 
 <h2 align="left">🍀 Overview </h2>
 
-Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.
+**Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.** \
+I’m a Software Developer with 4 years of experience in C/C++, Java, Python to develop mobile apps. Learning new language and new technology is my passion. 
 
 - 👩‍💻 Working: **Software developer at Gameloft**
 
