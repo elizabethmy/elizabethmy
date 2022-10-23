@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px"> -->
 
-<a href="https://twitter.com/banhmuy">
+<a href="https://twitter.com/elizabethmy96">
   <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lethidiemmy-gryffindor/">
@@ -15,7 +15,7 @@
   </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=banhmuy.banhmuy)
+![](https://visitor-badge.glitch.me/badge?page_id=elizabethmy.elizabethmy)
 <br />
 
 <h2 align="left">🍀 Overview </h2>
@@ -54,8 +54,8 @@ I’m a Software Developer with 4 years of experience in C/C++, Java, Python to 
 <table>
 <tr>
   <td width="48%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banhmuy&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=banhmuy&show_icons=true&locale=en&theme=gotham&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizabethmy&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elizabethmy&show_icons=true&locale=en&theme=gotham&hide_border=true" />
   </td>
   <td width="52%">
      <img src="https://leetcode.card.workers.dev/lethidiemmy961996?theme=dark&font=source_code_pro&extension=activity&hide_border=true" />               
