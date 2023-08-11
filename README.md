@@ -16,19 +16,13 @@
 <h2 align="left">🍀 Overview </h2>
 
 **Hi, I'm [My Le](https://geminishark.wordpress.com/), a passionate software developer from Viet Nam.** \
-I’m a Software Developer with 4 years of experience in C/C++, Java, Python to develop mobile apps. Learning new language and new technology is my passion. 
+I’m a Software Developer with 5 years of experience in C/C++, Java, Python to develop mobile apps. Learning new language and new technology is my passion. 
 
 - 👩‍💻 Working: **Software developer at Gameloft**
 
 - 💚 Contribution
 
-🎯 Mission:
-| **Topic**                                                     | **Detail**                                                                        |
-|---------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| 🌱 Developer                                                  | <ul><li>**C++ course at https://vietnamson.com/** </li><li>**AI All in one at https://aivietnam.edu.vn/** </li><li>**[Leete code](https://leetcode.com/lethidiemmy961996/)**</li></ul>                      |
-| 📚 [Reading](https://www.goodreads.com/user/show/71295387-my) | <ul><li></li></ul>             |
-| 🔬 Researching                                                | <ul><li>**Machine Learning** </li><li>**Data Science** </li></ul>                 |
-| 🌎 Skills                                                     |  |
+🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health
 
 <h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
 
@@ -46,12 +40,9 @@ I’m a Software Developer with 4 years of experience in C/C++, Java, Python to 
 
 <h2 align="left">📈 Status</h2>
 
-
-[![My Patel's Stri](https://streak-stats.demolab.com?user=elizabethmy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-
+[![My Patel's Stri](https://streak-stats.demolab.com?user=elizabethmy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
 
 <table>
-<tr>
   <td width="48%">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizabethmy&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=elizabethmy&show_icons=true&locale=en&theme=gotham&hide_border=true" />
