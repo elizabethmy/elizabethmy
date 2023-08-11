@@ -1,11 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/ii0NswbQJl8PX5ZBtT/giphy.gif" width="400px"> -->
-
-<a href="https://twitter.com/elizabethmy96">
-  <img align="left" alt="My Le | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lethidiemmy-gryffindor/">
-  <img align="left" alt="My Le's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lethidiemmy-gryffindor/">
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lethidiemmy-gryffindor/" height="22" width="22" /></a>
   <a href="https://www.kaggle.com/banhmuy">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="My Le's kaggle" height="22" width="22" /></a>
 <a href="https://auth.geeksforgeeks.org/user/diemmylethi">
@@ -50,6 +45,10 @@ I’m a Software Developer with 4 years of experience in C/C++, Java, Python to 
 </p>
 
 <h2 align="left">📈 Status</h2>
+
+
+[![My Patel's Stri](https://streak-stats.demolab.com?user=elizabethmy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+
 
 <table>
 <tr>
