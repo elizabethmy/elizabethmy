@@ -10,7 +10,7 @@
   </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=elizabethmy.elizabethmy)
+
 <br />
 
 <h2 align="left">🍀 Overview </h2>
